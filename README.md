@@ -25,4 +25,12 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0006-zigzag-conversion) |
+## Array
+|  |
+| ------- |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+## Hash Table
+|  |
+| ------- |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 <!---LeetCode Topics End-->
