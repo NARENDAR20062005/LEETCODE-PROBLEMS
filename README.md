@@ -11,7 +11,6 @@
 
 🎯 **Recent Focus Areas:**
 - Data Structures & Algorithms
-- Dynamic Programming
 - Graph Theory
 - System Design (Interview Prep)
 
