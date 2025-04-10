@@ -1,7 +1,6 @@
 
 ## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Narendar_20062005?theme=light&font=baloo&extension=activity)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Narendar_20062005?theme=light&font=baloo)
 
 📍 **Username:** [Narendar_20062005](https://leetcode.com/Narendar_20062005/)  
