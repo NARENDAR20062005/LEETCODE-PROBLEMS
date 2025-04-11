@@ -25,6 +25,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0020-valid-parentheses) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2128-reverse-prefix-of-word) |
 ## Array
@@ -42,6 +43,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0094-binary-tree-inorder-traversal) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1078-remove-outermost-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
