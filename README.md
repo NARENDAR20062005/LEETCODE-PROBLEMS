@@ -27,6 +27,7 @@
 | [0006-zigzag-conversion](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1078-remove-outermost-parentheses) |
+| [2128-reverse-prefix-of-word](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2128-reverse-prefix-of-word) |
 ## Array
 |  |
 | ------- |
@@ -42,8 +43,13 @@
 | [0020-valid-parentheses](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2128-reverse-prefix-of-word](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2128-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Two Pointers
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
