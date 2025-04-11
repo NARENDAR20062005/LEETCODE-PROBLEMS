@@ -31,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [1552-build-an-array-with-stack-operations](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -59,6 +60,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2128-reverse-prefix-of-word) |
 ## Tree
 |  |
@@ -87,5 +89,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
