@@ -33,6 +33,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [1552-build-an-array-with-stack-operations](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Stack
 |  |
@@ -91,4 +93,8 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
