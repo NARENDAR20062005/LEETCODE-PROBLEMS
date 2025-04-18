@@ -25,6 +25,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0038-count-and-say) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2128-reverse-prefix-of-word) |
