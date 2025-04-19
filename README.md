@@ -25,6 +25,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1045-check-if-word-is-valid-after-substitutions) |
@@ -118,4 +119,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
