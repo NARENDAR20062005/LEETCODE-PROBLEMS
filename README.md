@@ -89,6 +89,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
