@@ -38,6 +38,7 @@
 | [1552-build-an-array-with-stack-operations](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2128-reverse-prefix-of-word) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -96,9 +98,14 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2626-count-the-number-of-good-subarrays) |
+## Binary Search
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
