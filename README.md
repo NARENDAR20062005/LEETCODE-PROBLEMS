@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0070-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -128,8 +129,13 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
