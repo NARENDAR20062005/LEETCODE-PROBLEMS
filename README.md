@@ -31,6 +31,7 @@
 | [0067-add-binary](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1078-remove-outermost-parentheses) |
+| [1720-crawler-log-folder](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1720-crawler-log-folder) |
 | [2128-reverse-prefix-of-word](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2128-reverse-prefix-of-word) |
 ## Array
 |  |
@@ -43,6 +44,7 @@
 | [0792-binary-search](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0792-binary-search) |
 | [1552-build-an-array-with-stack-operations](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1720-crawler-log-folder](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1720-crawler-log-folder) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -65,6 +67,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1078-remove-outermost-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1720-crawler-log-folder](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1720-crawler-log-folder) |
 | [2128-reverse-prefix-of-word](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2128-reverse-prefix-of-word) |
 | [2573-remove-nodes-from-linked-list](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
