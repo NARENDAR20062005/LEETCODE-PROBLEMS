@@ -33,6 +33,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1720-crawler-log-folder) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2128-reverse-prefix-of-word](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2128-reverse-prefix-of-word) |
 ## Array
 |  |
@@ -113,6 +114,7 @@
 | [0067-add-binary](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1552-build-an-array-with-stack-operations) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Sorting
 |  |
 | ------- |
