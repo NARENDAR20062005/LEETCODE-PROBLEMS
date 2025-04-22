@@ -40,6 +40,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
@@ -135,6 +136,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0792-binary-search) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Math
