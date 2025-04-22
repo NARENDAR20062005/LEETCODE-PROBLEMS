@@ -32,6 +32,7 @@
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1720-crawler-log-folder) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2128-reverse-prefix-of-word) |
 ## Array
 |  |
@@ -56,6 +57,7 @@
 | [0049-group-anagrams](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2561-number-of-distinct-averages](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2561-number-of-distinct-averages) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -156,4 +158,8 @@
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Counting
+|  |
+| ------- |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
