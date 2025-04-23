@@ -42,6 +42,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-minimum-moves-to-convert-string](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 ## Array
 |  |
 | ------- |
