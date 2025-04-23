@@ -30,6 +30,7 @@
 | [0038-count-and-say](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0125-valid-palindrome) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1720-crawler-log-folder) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0125-valid-palindrome) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2128-reverse-prefix-of-word) |
 | [2561-number-of-distinct-averages](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2561-number-of-distinct-averages) |
