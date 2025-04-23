@@ -37,6 +37,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-minimum-moves-to-convert-string](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2154-minimum-moves-to-convert-string) |
@@ -54,6 +55,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1720-crawler-log-folder) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2561-number-of-distinct-averages](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2561-number-of-distinct-averages) |
