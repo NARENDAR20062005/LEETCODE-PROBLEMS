@@ -39,6 +39,7 @@
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2154-minimum-moves-to-convert-string](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2154-minimum-moves-to-convert-string) |
 ## Array
 |  |
 | ------- |
@@ -180,4 +181,5 @@
 |  |
 | ------- |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2154-minimum-moves-to-convert-string](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2154-minimum-moves-to-convert-string) |
 <!---LeetCode Topics End-->
