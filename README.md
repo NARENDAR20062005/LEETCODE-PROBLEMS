@@ -49,6 +49,7 @@
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2226-rings-and-rods](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2226-rings-and-rods) |
 ## Array
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2226-rings-and-rods](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2226-rings-and-rods) |
 | [2561-number-of-distinct-averages](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2561-number-of-distinct-averages) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
