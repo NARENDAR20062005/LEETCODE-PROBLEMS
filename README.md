@@ -33,6 +33,7 @@
 | [0125-valid-palindrome](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0205-isomorphic-strings) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1078-remove-outermost-parentheses](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1078-remove-outermost-parentheses) |
 | [1720-crawler-log-folder](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1720-crawler-log-folder) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0219-contains-duplicate-ii) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
