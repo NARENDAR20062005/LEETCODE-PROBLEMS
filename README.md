@@ -50,6 +50,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2226-rings-and-rods) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Array
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2561-number-of-distinct-averages](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2561-number-of-distinct-averages) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -114,6 +116,7 @@
 | [0125-valid-palindrome](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/0125-valid-palindrome) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2128-reverse-prefix-of-word) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2561-number-of-distinct-averages](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2561-number-of-distinct-averages) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Tree
