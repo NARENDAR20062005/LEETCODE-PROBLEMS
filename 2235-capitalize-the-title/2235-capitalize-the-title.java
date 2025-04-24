@@ -2,15 +2,6 @@ class Solution {
     public String capitalizeTitle(String title) {
         String str = title.toLowerCase();
         StringBuilder sb = new StringBuilder();
-        // for(int i=0;i<str.length();i++){
-        //     char ch = str.charAt(i);
-        //     if(i==0 || str.charAt(i-1)==' '){
-        //         sb.append(Character.toUpperCase(ch));
-        //     }else{
-        //     sb.append(ch);
-        //     }
-
-        // }
 
         for(String word : str.split(" ")){
             if(word.length()<=2){
