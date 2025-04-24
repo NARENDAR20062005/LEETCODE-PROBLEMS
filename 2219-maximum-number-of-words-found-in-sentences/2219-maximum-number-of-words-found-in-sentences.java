@@ -5,7 +5,6 @@ class Solution {
         for(String str : sentences){
             int count = 1;
             for(char ch : str.toCharArray()){
-                
                 if(ch == ' '){
                     count +=1;
                 }
