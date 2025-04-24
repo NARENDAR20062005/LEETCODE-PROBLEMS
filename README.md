@@ -45,6 +45,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2561-number-of-distinct-averages](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2561-number-of-distinct-averages) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -77,6 +79,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2561-number-of-distinct-averages](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2561-number-of-distinct-averages) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -189,6 +192,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Greedy
 |  |
 | ------- |
