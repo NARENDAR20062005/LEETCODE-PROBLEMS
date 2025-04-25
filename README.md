@@ -60,6 +60,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2341-count-prefixes-of-a-given-string) |
 ## Array
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2561-number-of-distinct-averages](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2561-number-of-distinct-averages) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2699-count-the-number-of-fair-pairs) |
