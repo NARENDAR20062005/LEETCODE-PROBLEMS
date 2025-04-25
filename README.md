@@ -56,6 +56,7 @@
 | [2235-capitalize-the-title](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2561-number-of-distinct-averages](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2561-number-of-distinct-averages) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -218,4 +220,8 @@
 | ------- |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2154-minimum-moves-to-convert-string](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2154-minimum-moves-to-convert-string) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
