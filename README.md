@@ -58,6 +58,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Array
 |  |
 | ------- |
@@ -221,8 +222,13 @@
 | ------- |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2154-minimum-moves-to-convert-string](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2154-minimum-moves-to-convert-string) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## String Matching
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2292-counting-words-with-a-given-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
