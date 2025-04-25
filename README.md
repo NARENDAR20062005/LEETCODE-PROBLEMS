@@ -54,6 +54,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Array
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [1552-build-an-array-with-stack-operations](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/1552-build-an-array-with-stack-operations) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Sorting
 |  |
 | ------- |
