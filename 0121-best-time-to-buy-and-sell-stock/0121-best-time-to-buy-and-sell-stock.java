@@ -1,6 +1,6 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int buy=prices[0],profit=0;
+        int buy=Integer.MAX_VALUE,profit=0;
 
         for(int i=0;i<prices.length;i++){
             if(buy>prices[i]){
