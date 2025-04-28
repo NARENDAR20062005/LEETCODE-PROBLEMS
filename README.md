@@ -61,6 +61,7 @@
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## Array
 |  |
 | ------- |
@@ -229,6 +230,7 @@
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2154-minimum-moves-to-convert-string](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2154-minimum-moves-to-convert-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/NARENDAR20062005/LEETCODE-PROBLEMS/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 ## String Matching
 |  |
 | ------- |
